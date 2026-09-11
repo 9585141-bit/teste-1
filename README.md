@@ -1,20 +1,20 @@
 # 🔧 BITY TECH LAB | Reparação de iPhone e Android
 
-## Projeto completo de reparação de telemóveis
+## Projeto profissional de reparação de telemóveis
 
-**Versão:** 3.0 — Estrutura completa inicial  
+**Versão:** 4.0 — Operação profissional desde o início  
 **Repositório atual:** `9585141-bit/teste-1`  
 **Branch:** `main`
 
-> O nome técnico do repositório ainda é `teste-1`. O projeto e toda a documentação passam a usar **BITY TECH LAB** como nome oficial.
+> O nome técnico do repositório ainda é `teste-1`. O nome oficial do projeto e de toda a documentação é **BITY TECH LAB**.
 
 ---
 
 ## 🎯 Objetivo
 
-Criar uma oficina/laboratório organizado para **receção, diagnóstico, orçamento, reparação, testes finais, entrega, stock e histórico de iPhone e Android**.
+Criar e desenvolver uma operação profissional para **receção, diagnóstico, orçamento, reparação, testes finais, entrega, stock e histórico de iPhone e Android**.
 
-O laboratório começa com uma bancada básica, depois recebe stock inicial de ecrãs e evolui progressivamente para diagnóstico avançado, microsoldadura, reparação de placas e sistema digital integrado ao ecossistema BITY.
+O BITY TECH LAB parte da **experiência prática já existente do técnico**. A evolução por fases representa crescimento de capacidade, equipamento, stock e organização do negócio, e não uma etapa de aprendizagem básica.
 
 ## 📱 Escopo
 
@@ -25,7 +25,7 @@ O laboratório começa com uma bancada básica, depois recebe stock inicial de e
 - 🔋 Baterias
 - 🔌 Conectores e flexes
 - 🛠️ Reparação de componentes
-- 🔬 Reparação de placas, numa fase avançada
+- 🔬 Reparação de placas em fase avançada
 - 📦 Stock
 - 💰 Orçamentos
 - 📚 Histórico
@@ -89,35 +89,78 @@ BITY TECH LAB
 
 ---
 
-## 🧰 Estratégia de investimento
+## 🚀 Fases de evolução
 
-### Fase 1 — Bancada básica
+### FASE 1 🔧 OPERAÇÃO
 
-Começar apenas com o necessário para abrir, medir, diagnosticar e realizar reparações iniciais.
+Começar a trabalhar imediatamente com a experiência existente.
 
-### Fase 2 — Stock inicial
+- Organizar a bancada disponível
+- Identificar apenas equipamentos realmente em falta
+- Começar os atendimentos/reparações
+- Priorizar stock inicial de ecrãs iPhone
+- Adicionar ecrãs Android conforme procura real
+- Aplicar diagnóstico, orçamento, reparação e testes finais
+- Registar cada serviço e resultado
 
-Priorizar **ecrãs de iPhone** e alguns modelos Android de maior procura.
+### FASE 2 📦 CONSOLIDAÇÃO
 
-### Fase 3 — Diagnóstico avançado
+- Aumentar stock dos modelos com maior procura
+- Melhorar fornecedores e reposição
+- Organizar garantias e devoluções
+- Padronizar procedimentos
+- Acompanhar custos, margem e rentabilidade
 
-Adicionar microscópio, fonte DC profissional, estação de ar quente e ferramentas de diagnóstico.
+### FASE 3 🔍 DIAGNÓSTICO AVANÇADO
 
-### Fase 4 — Microsoldadura e placas
+- Evoluir equipamentos de diagnóstico
+- Trabalhar com análise de alimentação e consumo
+- Aprofundar diagnóstico de placa
+- Documentar medições e casos técnicos
 
-Evoluir para reparação de componentes e placas quando houver conhecimento, ferramentas e segurança suficientes.
+### FASE 4 🔥 REPARAÇÃO DE PLACA
 
-### Fase 5 — Sistema digital
+- Microsoldadura
+- Reparação de componentes
+- Diagnóstico ao nível da placa
+- Registo técnico de cada intervenção
 
-Controlar clientes, aparelhos, ordens de serviço, peças, custos, stock e histórico através do BITY JR. 💻.
+### FASE 5 💻 SISTEMA DIGITAL
+
+Controlar digitalmente:
+
+- clientes;
+- aparelhos;
+- ordens de serviço;
+- diagnósticos;
+- orçamentos;
+- reparações;
+- peças;
+- stock;
+- custos;
+- garantias;
+- histórico.
+
+### FASE 6 🤖 INTEGRAÇÃO BITY
+
+Integração futura com o ecossistema **BITY JR. 💻**, mantendo sempre o controlo humano sobre operações e decisões importantes.
 
 ---
 
 ## 📦 Regra de stock
 
-> **Poucos modelos + maior procura + reposição rápida.**
+> **Poucos modelos + muita procura + reposição rápida.**
 
-Não comprar grandes quantidades de ecrãs apenas porque estão baratos. Primeiro observar quais modelos entram realmente para reparação.
+Não imobilizar capital em grandes quantidades de peças sem procura comprovada.
+
+Prioridade inicial:
+
+- 🍎 iPhone
+- 🤖 Samsung
+- 🤖 Xiaomi/Redmi
+- 🤖 Tecno
+- 🤖 Infinix
+- outros modelos conforme procura local
 
 ---
 
@@ -130,7 +173,7 @@ OS-0001
 │
 ├── Cliente
 ├── Aparelho
-├── IMEI/serial quando disponível
+├── IMEI/serial quando necessário
 ├── Estado físico
 ├── Sintoma
 ├── Diagnóstico
@@ -168,7 +211,7 @@ Antes da entrega, verificar conforme o modelo:
 
 ## 💻 Evolução digital
 
-O objetivo futuro é transformar o processo manual numa aplicação do BITY TECH LAB, mantendo o Git como documentação técnica do projeto.
+O objetivo futuro é transformar o processo manual numa aplicação do BITY TECH LAB, mantendo o GitHub como documentação técnica do projeto.
 
 ```text
 📱 APARELHO
@@ -187,27 +230,18 @@ O objetivo futuro é transformar o processo manual numa aplicação do BITY TECH
 
 ---
 
-## 🚀 Evolução
-
-**Fase 1:** bancada básica  
-**Fase 2:** stock inicial de ecrãs iPhone + Android  
-**Fase 3:** diagnóstico avançado  
-**Fase 4:** soldadura e microsoldadura  
-**Fase 5:** reparação de placas  
-**Fase 6:** sistema digital  
-**Fase 7:** integração com o ecossistema BITY JR.
-
----
-
 ## 📌 Princípios
 
-1. Diagnosticar antes de substituir.
-2. Registar o estado do aparelho antes de abrir.
-3. Pedir autorização antes da reparação.
-4. Testar antes de entregar.
-5. Documentar peças, custos e procedimentos.
-6. Controlar o stock.
-7. Evoluir o laboratório por etapas.
+1. Começar a trabalhar com a experiência existente.
+2. Diagnosticar antes de substituir.
+3. Registar o estado do aparelho antes de abrir.
+4. Pedir autorização antes da reparação.
+5. Testar antes de entregar.
+6. Documentar peças, custos e procedimentos.
+7. Controlar o stock.
+8. Investir conforme a necessidade real da operação.
+9. Evoluir tecnicamente sem parar a operação.
+10. Proteger os dados dos clientes.
 
 ---
 
