@@ -1,14 +1,14 @@
 # 📚 Documentação | BITY TECH LAB
 
-Área central de documentação técnica, operacional e de aprendizagem do **BITY TECH LAB**, dedicado à reparação e manutenção de **iPhone e Android**.
+Área central de documentação técnica e operacional do **BITY TECH LAB**, dedicado à reparação e manutenção de **iPhone e Android**.
 
 > **Objetivo:** transformar cada reparação, teste e aprendizagem em conhecimento documentado e reutilizável.
 
+> **Princípio de operação:** o BITY TECH LAB começa a trabalhar com a experiência prática já existente. As fases representam crescimento do laboratório, não aprendizagem básica.
+
 ---
 
-## 🧭 1. Como usar esta área
-
-A documentação acompanha o projeto desde a preparação da bancada até à evolução para diagnóstico avançado e integração digital.
+## 🧭 1. Organização
 
 ```text
 📚 DOCUMENTAÇÃO
@@ -22,16 +22,16 @@ A documentação acompanha o projeto desde a preparação da bancada até à evo
        ├── 💰 Orçamentos
        ├── 📝 Ordens de serviço
        ├── ⚠️ Segurança e boas práticas
-       └── 📈 Aprendizagem e evolução
+       └── 📈 Casos e evolução
 ```
 
 ---
 
 ## 🧰 2. Bancada
 
-Documentar:
+Documentar a bancada realmente utilizada na operação:
 
-- organização física da bancada;
+- organização física;
 - iluminação;
 - proteção ESD;
 - ferramentas manuais;
@@ -42,7 +42,7 @@ Documentar:
 - limpeza e organização;
 - armazenamento de peças e aparelhos.
 
-**Regra:** a bancada deve permitir trabalhar de forma organizada, segura e repetível.
+**Regra:** identificar primeiro o que já existe e comprar apenas o que estiver em falta para a operação.
 
 ---
 
@@ -53,8 +53,6 @@ O diagnóstico deve ser baseado em **evidências e testes**, não apenas no sint
 ### Regra principal
 
 > **Não confundir sintoma com diagnóstico.**
-
-Exemplo:
 
 ```text
 CLIENTE
@@ -74,13 +72,10 @@ INSPEÇÃO
    │
    ▼
 TESTES
-   │
    ▼
 EVIDÊNCIAS
-   │
    ▼
 CAUSA PROVÁVEL
-   │
    ▼
 DIAGNÓSTICO
 ```
@@ -142,33 +137,13 @@ ENTREGA
 
 ## 📱 6. iPhone e Android
 
-A documentação deve separar procedimentos quando houver diferenças relevantes entre plataformas.
-
 ### 🍎 iPhone
 
-Registar progressivamente procedimentos para modelos atendidos pelo laboratório, incluindo:
-
-- identificação do modelo;
-- ecrã;
-- bateria;
-- conectores e flexes;
-- câmaras;
-- carregamento;
-- diagnóstico de consumo;
-- componentes de placa;
-- testes pós-reparação.
+Registar progressivamente procedimentos para os modelos realmente atendidos pelo laboratório, incluindo ecrãs, baterias, conectores, flexes, câmaras, carregamento, diagnóstico de consumo, componentes de placa e testes pós-reparação.
 
 ### 🤖 Android
 
-Registar progressivamente procedimentos por fabricante e modelo, começando pelos aparelhos com maior procura local.
-
-Fabricantes a acompanhar conforme a procura:
-
-- Samsung;
-- Xiaomi/Redmi;
-- Tecno;
-- Infinix;
-- outros modelos solicitados pelos clientes.
+Registar procedimentos por fabricante e modelo conforme a procura real, acompanhando principalmente Samsung, Xiaomi/Redmi, Tecno e Infinix.
 
 ---
 
@@ -186,11 +161,11 @@ A documentação do stock deve permitir saber:
 - quantidade mínima;
 - necessidade de reposição.
 
-### Estratégia inicial
+### Estratégia
 
 > **Poucos modelos + muita procura + reposição rápida.**
 
-Evitar imobilizar capital em grande quantidade de peças de modelos com pouca procura.
+O stock deve acompanhar a operação real e evitar capital parado em peças de baixa procura.
 
 ---
 
@@ -214,8 +189,6 @@ O orçamento deve ser apresentado ao cliente antes da reparação, salvo situaç
 
 ## 📝 9. Ordem de serviço
 
-Modelo lógico:
-
 ```text
 OS-XXXX
 │
@@ -233,34 +206,23 @@ OS-XXXX
 └── Entrega
 ```
 
-**Privacidade:** os dados reais de clientes não devem ser publicados no repositório público.
+**Privacidade:** dados reais de clientes não devem ser publicados no repositório público.
 
 ---
 
 ## ⚠️ 10. Segurança e boas práticas
 
-Documentar procedimentos relacionados com:
-
-- eletricidade e alimentação DC;
-- baterias de lítio;
-- ESD;
-- soldadura;
-- produtos de limpeza;
-- ferramentas térmicas;
-- proteção dos olhos e mãos quando necessária;
-- organização de cabos;
-- prevenção de curto-circuitos;
-- descarte adequado de componentes e baterias.
+Documentar procedimentos relacionados com eletricidade, alimentação DC, baterias de lítio, ESD, soldadura, produtos de limpeza, ferramentas térmicas, organização de cabos, prevenção de curto-circuitos e descarte adequado de componentes e baterias.
 
 Quando houver risco técnico, **parar, verificar e só depois continuar**.
 
 ---
 
-## 🧠 11. Aprendizagem
+## 🧠 11. Casos e conhecimento técnico
 
-O BITY TECH LAB também funciona como laboratório de aprendizagem.
+O laboratório já parte de experiência prática. A documentação serve para transformar essa experiência em conhecimento organizado e reutilizável.
 
-Cada problema novo pode gerar uma pequena ficha:
+Cada problema novo ou reparação relevante pode gerar uma ficha:
 
 ```text
 PROBLEMA
@@ -273,47 +235,44 @@ RESULTADOS
    ↓
 CONCLUSÃO
    ↓
-LIÇÃO APRENDIDA
+LIÇÃO / PROCEDIMENTO REGISTADO
 ```
-
-Isto permite construir uma base de conhecimento própria ao longo do tempo.
 
 ---
 
 ## 📸 12. Fotografias e evidências
 
-Quando forem usadas fotografias técnicas, preferir imagens que mostrem:
-
-- posição dos componentes;
-- conectores;
-- danos;
-- medições;
-- montagem/desmontagem;
-- resultado final.
+Preferir fotografias técnicas que mostrem posição de componentes, conectores, danos, medições, montagem/desmontagem e resultado final.
 
 Não publicar fotografias que revelem dados pessoais do cliente ou informações sensíveis do aparelho.
 
 ---
 
-## 📈 13. Evolução do laboratório
+## 📈 13. Fases do laboratório
 
-### Fase 1
-🧰 Bancada básica + ferramentas essenciais
+### FASE 1 🔧 OPERAÇÃO
 
-### Fase 2
-📱 Stock inicial de ecrãs iPhone + alguns Android
+Começar a trabalhar imediatamente, organizar a bancada disponível, identificar equipamentos em falta, iniciar stock de iPhone e Android conforme procura e registar profissionalmente cada serviço.
 
-### Fase 3
-🔍 Diagnóstico elétrico mais avançado
+### FASE 2 📦 CONSOLIDAÇÃO
 
-### Fase 4
-🔥 Microsoldadura e reparação de placa
+Expandir stock dos modelos com maior procura, melhorar fornecedores, organizar garantias, reposições e indicadores de custos/rentabilidade.
 
-### Fase 5
-💻 Sistema digital de clientes, ordens de serviço e stock
+### FASE 3 🔍 DIAGNÓSTICO AVANÇADO
 
-### Fase 6
-🤖 Integração futura com o ecossistema BITY JR.
+Evoluir ferramentas e métodos de análise elétrica, consumo e diagnóstico de placa.
+
+### FASE 4 🔥 REPARAÇÃO DE PLACA
+
+Microsoldadura, componentes e reparação ao nível da placa.
+
+### FASE 5 💻 SISTEMA DIGITAL
+
+Clientes, aparelhos, ordens de serviço, stock, custos, garantias e histórico.
+
+### FASE 6 🤖 INTEGRAÇÃO BITY
+
+Integração futura com o ecossistema BITY JR.
 
 ---
 
@@ -335,10 +294,10 @@ Para exemplos e testes, utilizar dados fictícios.
 
 ---
 
-## 📌 15. Regra de ouro do BITY TECH LAB
+## 📌 15. Regra de ouro
 
-> **Documentar antes, durante e depois das reparações importantes.**
+> **Trabalhar com experiência. Documentar o que é feito. Melhorar com cada serviço.**
 
-A documentação não é apenas um arquivo. É parte do próprio sistema de qualidade do laboratório.
+A documentação é parte do sistema de qualidade do laboratório.
 
 **BITY TECH LAB** 🔧📱
